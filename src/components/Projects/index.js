@@ -52,6 +52,13 @@ const Projects = () => {
                                 <p>a lost and found app where users can post lost items and other users can retrieve said items</p>
                             </div>
                         </a>
+                        <a href="https://github.com/gracematsuoka/my-portfolio" target="_blank" rel="noopener noreferrer" data-aos="fade-left">
+                            <div className="box" id="portfolio">
+                                <img src={Found} alt="found" />
+                                <h2>❊ Found</h2>
+                                <p>a lost and found app where users can post lost items and other users can retrieve said items</p>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
