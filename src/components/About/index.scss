@@ -1,0 +1,39 @@
+.about {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.about h1 {
+    margin-left: 100px;
+    // margin-top: 40px;
+}
+
+.about .content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 70px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    min-width: 400px;
+}
+
+.about h4 {
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.about p {
+    font-size: 25px;
+}

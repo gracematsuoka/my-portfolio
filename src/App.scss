@@ -1,0 +1,23 @@
+@import 'animate.css';
+@import 'variables.scss';
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'JustMe';
+  src: url('./assets/fonts/JustMeAgainDownHere-Regular.ttf') format('truetype');
+}
+
+input, textarea {
+  font-family: 'Inter', sans-serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  background-color: $tan;
+}

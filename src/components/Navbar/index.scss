@@ -1,0 +1,49 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 900;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3ede1b5;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 50px;
+    top: 0;
+}
+
+.navbar .links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: transparent;
+}
+
+.navbar .links .home-btn {
+    margin-left: 30px;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.navbar .links .rest {
+    display: flex;
+    margin-right: 30px;
+    gap: 20px;
+    background-color: transparent;
+}
+
+.navbar .links .rest a {
+    transition: all 0.3s ease;
+}
+
+.navbar .links .rest a:hover {
+    font-weight: bold;
+    transform: scale(1.02);
+}
+
+.navbar .links a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: transparent;
+}

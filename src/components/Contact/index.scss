@@ -1,0 +1,40 @@
+.contact {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    gap: 5px;
+    background-color: #f3ede1a3;
+    border-radius: 10px;
+}
+
+.contact img {
+    opacity: 54%;
+    background-color: transparent;
+    transition: opacity 0.3s
+}
+
+.contact img:hover {
+    opacity: .9;
+}
+
+a {
+    background-color: transparent;
+}
+
+.git {
+    width: 34px;
+}
+
+.linked {
+    width: 47px;
+}
+
+.mail {
+    width: 40px;
+    cursor: pointer;
+}
