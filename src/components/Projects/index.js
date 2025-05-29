@@ -8,8 +8,9 @@ import iMovie from '../../assets/images/imovie.png';
 const Projects = () => {
     return (
         <div className="projects">
-            <div data-aos="fade-down">
+            <div className="projects-header" data-aos="fade-down">
                 <h1>Projects</h1>
+                <p>click below for <b>github</b> links 🔗</p>
             </div>
             <div className='horizontal-wrapper'>
                 <div className='projects-wrapper'>
