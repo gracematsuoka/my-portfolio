@@ -4,6 +4,7 @@ import LifeCrash from '../../assets/images/lifecrash.png';
 import Fit from '../../assets/images/fit.png';
 import Found from '../../assets/images/found.png';
 import iMovie from '../../assets/images/imovie.png';
+import Portfolio from '../../assets/images/my-portfolio.png';
 
 const Projects = () => {
     return (
@@ -54,9 +55,9 @@ const Projects = () => {
                         </a>
                         <a href="https://github.com/gracematsuoka/my-portfolio" target="_blank" rel="noopener noreferrer" data-aos="fade-left">
                             <div className="box" id="portfolio">
-                                <img src={Found} alt="found" />
-                                <h2>❊ Found</h2>
-                                <p>a lost and found app where users can post lost items and other users can retrieve said items</p>
+                                <img src={Portfolio} alt="portfolio" />
+                                <h2>❊ This Website!</h2>
+                                <p>a dynamic portfolio website designed to focus on enhanced user experience and clean presentation</p>
                             </div>
                         </a>
                     </div>
