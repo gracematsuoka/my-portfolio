@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.726f5746.css",
-    "main.js": "/my-portfolio/static/js/main.ef5cd6fc.js",
+    "main.css": "/my-portfolio/static/css/main.110547c6.css",
+    "main.js": "/my-portfolio/static/js/main.27eea57b.js",
     "static/media/imovie.png": "/my-portfolio/static/media/imovie.82c5f1919ec31aeae519.png",
     "static/media/gracecircle.png": "/my-portfolio/static/media/gracecircle.02d93ca6d010012a2c77.png",
     "static/media/me-doodle.png": "/my-portfolio/static/media/me-doodle.8377da56f579bb3e882a.png",
@@ -17,11 +17,11 @@
     "static/media/hacklogo.png": "/my-portfolio/static/media/hacklogo.0209b62316759212ca0f.png",
     "static/media/mail.png": "/my-portfolio/static/media/mail.c36af3a69c18807886b8.png",
     "index.html": "/my-portfolio/index.html",
-    "main.726f5746.css.map": "/my-portfolio/static/css/main.726f5746.css.map",
-    "main.ef5cd6fc.js.map": "/my-portfolio/static/js/main.ef5cd6fc.js.map"
+    "main.110547c6.css.map": "/my-portfolio/static/css/main.110547c6.css.map",
+    "main.27eea57b.js.map": "/my-portfolio/static/js/main.27eea57b.js.map"
   },
   "entrypoints": [
-    "static/css/main.726f5746.css",
-    "static/js/main.ef5cd6fc.js"
+    "static/css/main.110547c6.css",
+    "static/js/main.27eea57b.js"
   ]
 }
