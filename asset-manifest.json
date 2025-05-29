@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.110547c6.css",
-    "main.js": "/my-portfolio/static/js/main.27eea57b.js",
+    "main.css": "/my-portfolio/static/css/main.988af215.css",
+    "main.js": "/my-portfolio/static/js/main.0bd1a935.js",
     "static/media/imovie.png": "/my-portfolio/static/media/imovie.82c5f1919ec31aeae519.png",
     "static/media/gracecircle.png": "/my-portfolio/static/media/gracecircle.02d93ca6d010012a2c77.png",
     "static/media/me-doodle.png": "/my-portfolio/static/media/me-doodle.8377da56f579bb3e882a.png",
     "static/media/fit.png": "/my-portfolio/static/media/fit.fef800e88a0c951859c6.png",
     "static/media/Inter.ttf": "/my-portfolio/static/media/Inter.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/my-portfolio.png": "/my-portfolio/static/media/my-portfolio.48bff222fe6941f3ec3f.png",
     "static/media/found.png": "/my-portfolio/static/media/found.7d57ee615cacd0151607.png",
     "static/media/recovery.png": "/my-portfolio/static/media/recovery.a8b789ea40fd8adb01bd.png",
     "static/media/nasalogo.png": "/my-portfolio/static/media/nasalogo.0c1ab885a12b684b15c1.png",
@@ -17,11 +18,11 @@
     "static/media/hacklogo.png": "/my-portfolio/static/media/hacklogo.0209b62316759212ca0f.png",
     "static/media/mail.png": "/my-portfolio/static/media/mail.c36af3a69c18807886b8.png",
     "index.html": "/my-portfolio/index.html",
-    "main.110547c6.css.map": "/my-portfolio/static/css/main.110547c6.css.map",
-    "main.27eea57b.js.map": "/my-portfolio/static/js/main.27eea57b.js.map"
+    "main.988af215.css.map": "/my-portfolio/static/css/main.988af215.css.map",
+    "main.0bd1a935.js.map": "/my-portfolio/static/js/main.0bd1a935.js.map"
   },
   "entrypoints": [
-    "static/css/main.110547c6.css",
-    "static/js/main.27eea57b.js"
+    "static/css/main.988af215.css",
+    "static/js/main.0bd1a935.js"
   ]
 }
